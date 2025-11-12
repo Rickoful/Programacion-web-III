@@ -12,5 +12,5 @@ function miFuncion(texto){
 }
 
 
-let obj=miFuncion("parangaricutirimicuaro");
+let obj=miFuncion("euforia");
 console.log(obj);
